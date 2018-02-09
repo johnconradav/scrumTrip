@@ -3,14 +3,14 @@
  # CS 4320 SCRUM Trip Group Project
 
  ### Team Members: 
-- John Conrad
-- Aaron Henry
-- Brian Robinson
-- Brock Gibson
-- Dylan Mouser
-- Kieran Chang
-- Nick Riley
-- Steven Gregory
+- John Conrad (Scrum Master)
+- Aaron Henry (Developer)
+- Brian Robinson (Developer)
+- Brock Gibson (Product Owner)
+- Dylan Mouser (Developer)
+- Kieran Chang (Developer)
+- Nick Riley (Developer)
+- Steven Gregory (Developer)
     
 ### Trip Attendees:
 - John Conrad
